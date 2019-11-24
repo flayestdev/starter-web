@@ -8,4 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+this is a simple web project that can be deployed in any
+type of servers
+
 ## How to contribute
