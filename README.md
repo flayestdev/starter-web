@@ -15,3 +15,8 @@ type of servers
 
 first read and understand the source file and it's structure
 than contact us
+
+## Way to contact us
+
+send a direct message
+or you can email me at gmail@gmail.me
